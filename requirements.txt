@@ -1,10 +1,9 @@
-numpy
+streamlit>=1.40.0
+scikit-learn>=1.6.0
 pandas
+numpy
 matplotlib
 seaborn
-streamlit
-sklearn
-joblib
 
 
 
