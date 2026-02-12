@@ -3,4 +3,5 @@ pandas
 matplotlib
 seaborn
 streamlit
-scikit-learn==1.8.0
+scikit-learn
+
