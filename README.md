@@ -30,4 +30,4 @@ To run the project locally, follow these steps:
 - Click "Predict" to get crop yield predictions.  
 
 ## **Live Demo**  
-Check out the deployed app here: https://yieldmeasure.streamlit.app/
+Check out the deployed app here: https://crop-yield-prediction-330.streamlit.app/
