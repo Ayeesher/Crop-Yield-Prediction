@@ -14,14 +14,14 @@ This project applies **Random Forest Regression** to predict **crop yield** base
 To run the project locally, follow these steps:  
 
 1. Clone the repository:  
-   _git clone https://github.com/aisha738/Crop-Yield-Prediction.git_
+   _git clone https://github.com/Ayeesher/Crop-Yield-Prediction.git_
    _cd Crop-Yield-Prediction_
    
 2. Install dependencies:  
    _pip install -r requirements.txt_
   
 3. Run the Streamlit app:
-   _streamlit run app.py_
+   _streamlit run yield_app.py_
 
    
 
